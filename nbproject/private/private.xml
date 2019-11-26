@@ -3,12 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/gleywson/Documents/NetBeansProjects/chess-system/src/chess/ChessPiece.java</file>
             <file>file:/C:/Users/gleywson/Documents/NetBeansProjects/chess-system/src/boardgame/Board.java</file>
-            <file>file:/C:/Users/gleywson/Documents/NetBeansProjects/chess-system/src/application/UI.java</file>
             <file>file:/C:/Users/gleywson/Documents/NetBeansProjects/chess-system/src/chess/ChessMatch.java</file>
+            <file>file:/C:/Users/gleywson/Documents/NetBeansProjects/chess-system/src/chess/ChessException.java</file>
             <file>file:/C:/Users/gleywson/Documents/NetBeansProjects/chess-system/src/application/Program.java</file>
-            <file>file:/C:/Users/gleywson/Documents/NetBeansProjects/chess-system/src/chess/Color.java</file>
+            <file>file:/C:/Users/gleywson/Documents/NetBeansProjects/chess-system/src/chess/ChessPosition.java</file>
         </group>
     </open-files>
 </project-private>

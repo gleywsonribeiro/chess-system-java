@@ -13,9 +13,10 @@ import boardgame.Piece;
  * @author gleywson
  */
 public class ChessPiece extends Piece {
+
     private Color color;
 
-    public ChessPiece(Color color, Board board) {
+    public ChessPiece(Board board, Color color) {
         super(board);
         this.color = color;
     }
@@ -23,6 +24,5 @@ public class ChessPiece extends Piece {
     public Color getColor() {
         return color;
     }
-    
-    
+
 }
