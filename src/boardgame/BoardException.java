@@ -9,18 +9,10 @@ package boardgame;
  *
  * @author gleywson
  */
-public class Piece {
+public class BoardException extends RuntimeException {
 
-    protected Position position;
-    private Board board;
-
-    public Piece(Board board) {
-        this.board = board;
-        position = null;
-    }
-
-    protected Board getBoard() {
-        return board;
+    public BoardException(String message) {
+        super(message);
     }
 
 }

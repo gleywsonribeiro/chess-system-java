@@ -11,12 +11,13 @@ import chess.Color;
 
 /**
  *
- * @author gleyw
- */
-public class King extends ChessPiece {
 
-    public King(Color color, Board board) {
-        super(color, board);
+ * @author gleywson
+ */
+public class King extends ChessPiece{
+
+    public King(Board board, Color color) {
+        super(board, color);
     }
 
     @Override
